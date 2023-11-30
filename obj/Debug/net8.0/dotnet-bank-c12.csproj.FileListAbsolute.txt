@@ -1,0 +1,15 @@
+/Users/macbookair/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12
+/Users/macbookair/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.deps.json
+/Users/macbookair/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.runtimeconfig.json
+/Users/macbookair/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.dll
+/Users/macbookair/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.pdb
+/Users/macbookair/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.AssemblyInfoInputs.cache
+/Users/macbookair/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.AssemblyInfo.cs
+/Users/macbookair/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.csproj.CoreCompileInputs.cache
+/Users/macbookair/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.sourcelink.json
+/Users/macbookair/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.dll
+/Users/macbookair/dotnet-bank-c12/obj/Debug/net8.0/refint/dotnet-bank-c12.dll
+/Users/macbookair/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.pdb
+/Users/macbookair/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.genruntimeconfig.cache
+/Users/macbookair/dotnet-bank-c12/obj/Debug/net8.0/ref/dotnet-bank-c12.dll
